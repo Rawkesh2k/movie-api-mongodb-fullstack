@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This a simple full stack movie api application with MongoDB. The back end is built on Java with Springboot, whereas frontend is built upon ReactJS. 
+
+THis app displays and helps users watch movie trailers and provide reviews to the variety of movies available.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
